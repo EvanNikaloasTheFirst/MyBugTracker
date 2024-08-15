@@ -24,19 +24,17 @@ Built with modern technologies and hosted on AWS, this tool is tailored for seam
 
 - Collaborate with other users 🤝
 
-##  🛠️Tools:
+##  🛠️ Tools:
 - Frontend: React (NextJS)🌐
 
 - Backend: Spring Boot (Java)☕️
 
 - Database: MongoDB ☘️
-![Screenshot 2024-08-15 at 03 42 39](https://github.com/user-attachments/assets/ccceac37-be67-4743-a7f6-1e21280b19b9)
 
 - Hosting: AWS 🖥️
 
-
 ### Currently in build! 🚧
-
-
+  
+![Screenshot 2024-08-15 at 03 42 39](https://github.com/user-attachments/assets/ccceac37-be67-4743-a7f6-1e21280b19b9)
 ![Screenshot 2024-08-15 at 03 34 38](https://github.com/user-attachments/assets/7eec6424-9405-40c5-a610-744fdfb9e9fd)
 ![Screenshot 2024-08-15 at 03 38 03](https://github.com/user-attachments/assets/279a28c9-00f1-490d-9189-1f3c5ec3dbb2)
