@@ -1,7 +1,7 @@
-# 📈 BugTrack
+# 📈 BugTracker
 
 ### *(Note the actual development is stored on a different repository)
-Welcome to BugTrack! 🚀
+Welcome to BugTracker! 🚀
 
 This is a comprehensive tool designed to help you manage, track, and progress both personal and client projects effectively. 
 
@@ -25,13 +25,17 @@ Built with modern technologies and hosted on AWS, this tool is tailored for seam
 - Collaborate with other users 🤝
 
 ##  🛠️Tools:
-Frontend: React (NextJS)🌐
-Backend: Spring Boot (Java)☕️
-Database: MongoDB ☘️
-Hosting: AWS 🖥️
+- Frontend: React (NextJS)🌐
+
+- Backend: Spring Boot (Java)☕️
+
+- Database: MongoDB ☘️
+![Screenshot 2024-08-15 at 03 42 39](https://github.com/user-attachments/assets/ccceac37-be67-4743-a7f6-1e21280b19b9)
+
+- Hosting: AWS 🖥️
 
 
-### Currently in build
+### Currently in build! 🚧
 
 
 ![Screenshot 2024-08-15 at 03 34 38](https://github.com/user-attachments/assets/7eec6424-9405-40c5-a610-744fdfb9e9fd)
