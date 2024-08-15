@@ -1,4 +1,6 @@
 # 📈 BugTrack
+
+### *(Note the actual development is stored on a different repository)
 Welcome to BugTrack! 🚀
 
 This is a comprehensive tool designed to help you manage, track, and progress both personal and client projects effectively. 
