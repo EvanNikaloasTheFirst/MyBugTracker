@@ -1,6 +1,7 @@
 # 📈 BugTracker
 
 ### *(Note the actual development is stored on a different repository)
+## (90% Ready for deployment)
 Welcome to BugTracker! 🚀
 
 This is a comprehensive tool designed to help you manage, track, and progress both personal and client projects effectively. 
