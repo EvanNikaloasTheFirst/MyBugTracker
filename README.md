@@ -1,38 +1,42 @@
-# 🛏️ 3D Portfolio Room
+### *(Note the actual development is stored on a different repository)
+## (90% Ready for deployment)
+Welcome to BugTracker! 🚀
 
-## (In build!)
+This is a comprehensive tool designed to help you manage, track, and progress both personal and client projects effectively. 
 
-Welcome to My Bedroom??! 🚀
+Inspired by Jira, this application enables you to create and manage projects, assign tickets, and keep clients updated on their project's status. 
 
-After procrastinating for a while about learning three.js I finally decided to take a crash course in three.js and build my very first project with the framework.
+Built with modern technologies and hosted on AWS, this tool is tailored for seamless project management.
 
-I've recreated my childhood bedroom into my very own 'digital universe' using simply
-
-## ✨ Tech:
-
-- Three.js (React) ◁
-
-- GLB Objects 🏎️
-
-- My imagination 💭
 
 ## ✨ Features:
 
-Learning about Three.js has been really cool and intresting at the same time.
+- Create Projects: Easily set up and manage multiple projects. 🔋
 
-## This project includes:
+- Assign Tickets: Track tasks and assign them to team members or yourself. 🎫
 
-- Lightning
-- Use of World, Scenes and Objects
-- Texture mapping
-- Animations
-- Loading 3D Models in .glb and gLTF formats
-- Making scenes responsive
-- 
+- Client Updates: Generate and send progress pages to clients to keep them informed. 👥
+
+- Progress Tracking: Monitor the progress of your projects in real-time. 🕣
+
+- Login using GitHub, Google (OAuth2) + Register and Login 🔐
+
+- Collaborate with other users 🤝
+
+##  🛠️ Tools:
+- Frontend: React (NextJS)🌐
+
+- Backend: Spring Boot (Java)☕️
+
+- Database: MongoDB ☘️
+
+- Hosting: AWS 🖥️
 
 ### Currently in build! 🚧
   
 
 
+https://github.com/user-attachments/assets/d621001a-ed09-4970-8c46-b408f4634cd3
 
-
+The Front end version:
+https://my-kanban-swart.vercel.app/
