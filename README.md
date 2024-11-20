@@ -38,5 +38,6 @@ Built with modern technologies and hosted on AWS, this tool is tailored for seam
 
 https://github.com/user-attachments/assets/d621001a-ed09-4970-8c46-b408f4634cd3
 
-The Front end version:
+The Front end only version:
+(This just uses local storage to save the tickets)
 https://my-kanban-swart.vercel.app/
